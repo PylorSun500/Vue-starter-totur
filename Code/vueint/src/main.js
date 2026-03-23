@@ -25,7 +25,19 @@ import './style.css'
 // func_toRefs.vue - toRefs()函数的应用示例
 // import App from './components/2_2_2_response_data_tie/func_toRefs.vue'
 
+// components/2_3_commands/cmd_v_text.vue - v-text 命令使用案例
+// import App from './components/2_3_commands/cmd_v_text.vue'
+
+// components/2_3_commands/cmd_v_html.vue - v-html 命令使用案例
+// import App from './components/2_3_commands/cmd_v_html.vue'
+
+// components/2_3_commands/cmd_v_bind.vue - v-bind 命令使用案例
+// import App from './components/2_3_commands/cmd_v_bind.vue'
+
+// components/2_3_commands/cmd_v_on.vue - v-on 命令使用案例
+import App from './components/2_3_commands/cmd_v_on.vue'
+
 // 对比示例 - 响应式 vs 非响应式 直观对比
-import App from './components/对比示例.vue'
+// import App from './components/对比示例.vue'
 
 createApp(App).mount('#app')
