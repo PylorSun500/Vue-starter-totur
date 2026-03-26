@@ -40,7 +40,19 @@ import './style.css'
 // import App from './components/2_3_commands/cmd_v_if.vue'
 
 // /components/2_3_commands/cmd_v_if.vue - v-show条件渲染
-import App from './components/2_3_commands/cmd_v_show.vue'
+// import App from './components/2_3_commands/cmd_v_show.vue'
+
+// /components/2_3_commands/cmd_v_for_arr.vue - v-for数组渲染
+// import App from './components/2_3_commands/cmd_v_for_arr.vue'
+
+// /components/2_3_commands/cmd_v_for_item.vue - v-for对象数组渲染
+// import App from './components/2_3_commands/cmd_v_for_item.vue'
+
+// /components/2_3_commands/cmd_v_for_name.vue - v-for对象渲染
+// import App from './components/2_3_commands/cmd_v_for_name.vue'
+
+// /components/2_4_event_object/eo_event.vue - 事件对象示例
+import App from './components/2_4_event_object/eo_event_enent.vue'
 
 // 对比示例 - 响应式 vs 非响应式 直观对比
 // import App from './components/对比示例.vue'
