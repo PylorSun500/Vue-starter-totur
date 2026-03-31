@@ -2,6 +2,8 @@
 
 ## 1. v-if 指令
 
+[cmd_v_if.vue](../Code/vueint/src/components/2_3_commands/cmd_v_if.vue)
+
 ### 基本用法
 `v-if` 指令用于条件性地渲染一块内容。这块内容只会在指令的表达式返回真值的时候被渲染。
 
@@ -30,6 +32,8 @@ const type = ref('B')
 5. 通过按钮点击事件修改数据，触发重新渲染
 
 ## 2. v-show 指令
+
+[cmd_v_show.vue](../Code/vueint/src/components/2_3_commands/cmd_v_show.vue)
 
 ### 基本用法
 `v-show` 指令用于根据条件展示元素，它只是简单地切换元素的 `display` CSS 属性。

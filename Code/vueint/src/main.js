@@ -21,38 +21,68 @@ import './style.css'
 // func_toRefs.vue - toRefs()函数的应用示例
 // import App from './components/2_2_2_response_data_tie/func_toRefs.vue'
 
-// components/2_3_commands/cmd_v_text.vue - 纯文本渲染命令
+// cmd_v_text.vue - 纯文本渲染命令
 // import App from './components/2_3_commands/cmd_v_text.vue'
 
-// components/2_3_commands/cmd_v_html.vue - 超文本渲染命令
+// cmd_v_html.vue - 超文本渲染命令
 // import App from './components/2_3_commands/cmd_v_html.vue'
 
-// components/2_3_commands/cmd_v_bind.vue - 属性绑定命令
+// cmd_v_bind.vue - 属性绑定命令
 // import App from './components/2_3_commands/cmd_v_bind.vue'
 
-// components/2_3_commands/cmd_v_on.vue - 事件绑定命令
+// cmd_v_on.vue - 事件绑定命令
 // import App from './components/2_3_commands/cmd_v_on.vue'
 
-// components/2_3_commands/cmd_v_model.vue - 双向数据绑定使用案例
+// cmd_v_model.vue - 双向数据绑定使用案例
 // import App from './components/2_3_commands/cmd_v_model.vue'
 
-// /components/2_3_commands/cmd_v_if.vue - v-if条件渲染
+// cmd_v_if.vue - v-if条件渲染
 // import App from './components/2_3_commands/cmd_v_if.vue'
 
-// /components/2_3_commands/cmd_v_if.vue - v-show条件渲染
+// cmd_v_if.vue - v-show条件渲染
 // import App from './components/2_3_commands/cmd_v_show.vue'
 
-// /components/2_3_commands/cmd_v_for_arr.vue - v-for数组渲染
+// cmd_v_for_arr.vue - v-for数组渲染
 // import App from './components/2_3_commands/cmd_v_for_arr.vue'
 
-// /components/2_3_commands/cmd_v_for_item.vue - v-for对象数组渲染
+// cmd_v_for_item.vue - v-for对象数组渲染
 // import App from './components/2_3_commands/cmd_v_for_item.vue'
 
-// /components/2_3_commands/cmd_v_for_name.vue - v-for对象渲染
+// cmd_v_for_name.vue - v-for对象渲染
 // import App from './components/2_3_commands/cmd_v_for_name.vue'
 
-// /components/2_4_event_object/eo_event.vue - 事件对象示例
-import App from './components/2_4_event_object/eo_event_enent.vue'
+// eo_event.vue - 事件对象示例
+// import App from './components/2_4_event_object/eo_event_enent.vue'
+
+// ed_prevent.vue - 阻止默认事件
+// import App from './components/2_5_event_decoration/ed_prevent.vue'
+
+// ed_stop.vue - 阻止事件冒泡
+// import App from './components/2_5_event_decoration/ed_stop.vue'
+
+// ed_capture.vue - 事件捕获
+// import App from './components/2_5_event_decoration/ed_capture.vue'
+
+// ed_once.vue - 单次事件
+// import App from './components/2_5_event_decoration/ed_once.vue'
+
+// ed_self.vue - DOM 独自运行事件
+// import App from './components/2_5_event_decoration/ed_self.vue'
+
+// ed_button.vue - 检测键盘按键
+// import App from './components/2_5_event_decoration/ed_button.vue'
+
+// ed_mouse.vue - 检测鼠标按键
+// import App from './components/2_5_event_decoration/ed_mouse÷.vue'
+
+// cp_computed.vue - 计算属性
+// import App from './components/2_6_calculate_property/cp_computed.vue'
+
+// w_watch.vue - 侦听器
+// import App from './components/2_7_watcher/w_watch.vue'
+
+// sb_class_string.vue - 样式绑定为字符串
+import App from './components/2_8_style_binding/sb_class_string.vue'
 
 // 对比示例 - 响应式 vs 非响应式 直观对比
 // import App from './components/对比示例.vue'
