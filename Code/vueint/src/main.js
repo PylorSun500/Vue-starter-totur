@@ -82,7 +82,13 @@ import './style.css'
 // import App from './components/2_7_watcher/w_watch.vue'
 
 // sb_class_string.vue - 样式绑定为字符串
-import App from './components/2_8_style_binding/sb_class_string.vue'
+// import App from './components/2_8_style_binding/sb_class_string.vue'
+
+// sb_class_obj.vue - 样式绑定为对象
+import App from './components/2_8_style_b   inding/sb_class_obj.vue'
+
+// sb_class_set.vue - 样式绑定为数组
+// import App from './components/2_8_style_binding/sb_class_set.vue'
 
 // 对比示例 - 响应式 vs 非响应式 直观对比
 // import App from './components/对比示例.vue'
