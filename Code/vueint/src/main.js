@@ -94,7 +94,31 @@ import './style.css'
 // import App from './components/2_8_style_binding/sb_style_obj.vue'
 
 // sb_style_set.vue - 样式表绑定为数组
-import App from './components/2_8_style_binding/sb_style_set.vue'
+// import App from './components/2_8_style_binding/sb_style_set.vue'
+
+// option_API.vue - 选项式 API
+// import App from './components/3_1_API/option_API.vue'
+
+// composition_API.vue - 组合式 API
+// import App from './components/3_1_API/composition_API.vue'
+
+// lifecycle_hooks.vue - 生命周期函数
+// import App from './components/3_2_lifecycle/lifecycle_hooks.vue'
+
+// 组件注册和引用
+// import App from './components/3_3_components/component_use.vue'
+// import global_components from './components/3_3_components/global_components.vue'
+// createApp(App).component('global_components', global_components)
+
+// 静态绑定 props - './components/3_5_props/p_static_bind'
+// import App from './components/3_5_props/p_static_bind/props.vue'
+
+// 动态绑定 props - './components/3_5_props/p_dynamic_bind'
+// import App from './components/3_5_props/p_dynamic_bind/string_to_props/string_to_props.vue' // 字符串类型
+// import App from './components/3_5_props/p_dynamic_bind/number_to_props/number_to_props.vue'
+// import App from './components/3_5_props/p_dynamic_bind/bool_to_props/bool_to_props.vue'
+// import App from './components/3_5_props/p_dynamic_bind/set_to_props/set_to_props.vue'
+import App from './components/3_5_props/p_dynamic_bind/object_to_props/object_to_props.vue'
 
 // 对比示例 - 响应式 vs 非响应式 直观对比
 // import App from './components/对比示例.vue'
